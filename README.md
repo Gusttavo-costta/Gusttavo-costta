@@ -1,7 +1,7 @@
 
 Gustavo Oliveira da Costa
 - 🖥️ | Computer Science Student
-- 📚 | Learning about HTML,CSS,Javascript, Pythom
+- 📚 | Learning about HTML,CSS,Javascript,React,Pythom
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
